@@ -1,4 +1,4 @@
-I write Swift for a living, and I keep building after hours.
+I write Swift for a living, and after hours I build apps I need, chasing the details most people skip.
 
 Swift. SwiftUI. The Composable Architecture.
 
